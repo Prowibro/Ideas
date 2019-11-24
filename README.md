@@ -32,6 +32,7 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - I am rich application: an application with the sole purpose of proving that you have too much money.
 - Article breakdown: an application that gives you the simplest form of an article, simple in words / short,...
 - VariableNames for programmers: an app that gives you a variable name based on a set of keywords
+- Seek my father: dating app for girls that seeks out guys that look like her father
 
 ## Contributing
 If you have an idea that could be added to the list, feel free to open a pull request (preferably add your idea to the top so newest ideas are at the top) :)

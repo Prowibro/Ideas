@@ -1,4 +1,4 @@
- ![ideas logo](./logo2.png)
+ ![ideas logo](./assets/images/logo.png)
 # Ideas
 This repository is to curate a list of ideas that I don't have time to work on.
 

@@ -1,6 +1,7 @@
  ![ideas logo](./assets/images/logo.png)
 # Ideas
-This repository is to curate a list of ideas that I don't have time to work on.
+In search of some cool/wicked ideas or no time to make them a reality? This might be the right place 4 u :)
+This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 
 ### App ideas:
 - Resume generator: you enter a picture, different texts, skills,... and this app generates different templates with everything necessary implemented

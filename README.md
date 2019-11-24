@@ -4,7 +4,8 @@ In search of some cool/wicked ideas or no time to make them a reality? This migh
 This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 
 ### App ideas:
-- Resume generator: you enter a picture, different texts, skills,... and this app generates different templates with everything necessary implemented
+- [resume generator](./assets/md/resumeGenerator.md)
+
 - Social media timeline: app that collects data from different social media and displays it in a timeline
 - Food recommender: an app that recommends food from restaurants nearby or food you can make yourself
 - A dare application: an application that basically allows you to send dares, receive dares, add dares, ...

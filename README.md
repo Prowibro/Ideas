@@ -16,8 +16,9 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - Unbaised news: application that gives unbaised news
 - Rate people: application that allows it's users to see a random other user and rate him/her based on different criteria (not necessarily looks)
 - Public toilet locator: in cities it is increasingly difficult to find free public toilets, so an app that shows you free/paid nearby public toilets
-- bin locator: an app that locates the nearest bin in the direction you're going
-- app recommender: application that recommend other cool/new applications
+- Bin locator: an app that locates the nearest bin in the direction you're going
+- App recommender: application that recommend other cool/new applications
+- Date recommender: an app that seeks potential dates for you (like in the netflix series black mirror) and by doing so tries to find the "ideal" partner for you
 
 ### Game ideas:
 - A vocabulary tracker: a game in which you need to enter as many (correct) words as you can, this in a certain amount of time or just to check your own vocabulary indefinitely

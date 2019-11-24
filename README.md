@@ -8,5 +8,6 @@ This repository is to curate a list of ideas that I don't have time to work on.
     
 ### Game ideas:
 
+
 ## Contributing
 If you have an idea that could be added to the list, feel free to open a pull request :)

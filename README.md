@@ -1,5 +1,5 @@
  ![ideas logo](./assets/images/logo.png)
-# Ideas
+# Create your dreams, live up to your imagination
 In search of some cool/wicked ideas or no time to make them a reality? This might be the right place 4 u :)
 This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 

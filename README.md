@@ -34,4 +34,4 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - VariableNames for programmers: an app that gives you a variable name based on a set of keywords
 
 ## Contributing
-If you have an idea that could be added to the list, feel free to open a pull request :)
+If you have an idea that could be added to the list, feel free to open a pull request (preferably add your idea to the top so newest ideas are at the top) :)

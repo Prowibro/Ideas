@@ -11,9 +11,12 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - Article breakdown: an application that breaks down articles ( = gives you a small summary)
 - A trello variant: an applicationt that allows you to plan task on the beforehand with estimate duration, when a task should be finished,...
 - Job apply: an application that seeks related jobs with job descriptions and allow you to enter a "standard" letter with a different implementation for each company
-    
+- Remember my books: an application that helps you remember the books you have read and some interesting future picks
+- Artist stockexchange: an app that allows it's users to invest in upcoming artist, youtubers, ...
+
 ### Game ideas:
 - A vocabulary tracker: a game in which you need to enter as many (correct) words as you can, this in a certain amount of time or just to check your own vocabulary indefinitely
+- WikiSearch: from a certain wikipedia page your objective is to get to another wikipedia page in the least amount of clicks
 
 ### Silly ideas:
 - I am rich application: an application with the sole purpose of proving that you have too much money.

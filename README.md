@@ -13,6 +13,8 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - Job apply: an application that seeks related jobs with job descriptions and allow you to enter a "standard" letter with a different implementation for each company
 - Remember my books: an application that helps you remember the books you have read and some interesting future picks
 - Artist stockexchange: an app that allows it's users to invest in upcoming artist, youtubers, ...
+- Unbaised news: application that gives unbaised news
+- Rate people: application that allows it's users to see a random other user and rate him/her based on different criteria (not necessarily looks)
 
 ### Game ideas:
 - A vocabulary tracker: a game in which you need to enter as many (correct) words as you can, this in a certain amount of time or just to check your own vocabulary indefinitely

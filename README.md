@@ -29,9 +29,10 @@ This repository is to curate a list of ideas that I don't have time to work on.
 - WikiSearch: from a certain wikipedia page your objective is to get to another wikipedia page in the least amount of clicks
 
 ### Silly ideas:
-- I am rich application: an application with the sole purpose of proving that you have too much money.
+- Random picture generator: an app that generates random pictures based on certain criteria
+- I am rich: an application with the sole purpose of proving that you have too much money.
 - Article breakdown: an application that gives you the simplest form of an article, simple in words / short,...
-- VariableNames for programmers: an app that gives you a variable name based on a set of keywords
+- VariableNames generator for programmers: an app that gives you a variable name based on a set of keywords
 - Seek my father: dating app for girls that seeks out guys that look like her father
 
 ## Contributing

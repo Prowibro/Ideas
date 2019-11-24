@@ -1,4 +1,4 @@
-![ideas logo](./logo2.png)
+<center> ![ideas logo](./logo2.png) </center>
 # Ideas
 This repository is to curate a list of ideas that I don't have time to work on.
 

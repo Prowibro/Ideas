@@ -23,7 +23,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Bin locator](./assets/md/binLocator.md)
 - [App recommender](./assets/md/appRecommender.md)
 - [Date recommender](./assets/md/dateRecommender.md)
-- Beautiful nature: an app that recommend/shows beautiful places in nature or to drive through, google maps but with beautiful and interesting places or an app that shows you places that are beautiful nearby (beautifulness based on rating)
+- [Natural beauty - car trip](./assets/md/naturalBeautyCarTrip.md)
 
 ### Game ideas:
 - A vocabulary tracker: a game in which you need to enter as many (correct) words as you can, this in a certain amount of time or just to check your own vocabulary indefinitely

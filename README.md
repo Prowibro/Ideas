@@ -17,9 +17,9 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Job/Internship applier](./assets/md/jobApplier.md)
 - [Remember books](./assets/md/rememberBooks.md)
 - [Artist Exchange](./assets/md/artistExchange.md)
-- Unbaised news: application that gives unbaised news
-- Rate people: application that allows it's users to see a random other user and rate him/her based on different criteria (not necessarily looks)
-- Public toilet locator: in cities it is increasingly difficult to find free public toilets, so an app that shows you free/paid nearby public toilets
+- [Unbaised News](./assets/md/unbaisedNews.md)
+- [Rate someone](./assets/md/rateSomeone.md)
+- [Public toilet locator](./assets/md/publicToiletLocator.md)
 - Bin locator: an app that locates the nearest bin in the direction you're going
 - App recommender: application that recommend other cool/new applications
 - Date recommender: an app that seeks potential dates for you (like in the netflix series black mirror) and by doing so tries to find the "ideal" partner for you

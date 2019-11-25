@@ -13,8 +13,8 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Travel book](./assets/md/travelBook.md)
 - [Modern shopping list](./assets/md/modernShoppinglist.md)
 - [Minify article](./assets/md/minifyArticle.md)
-- A trello variant: an applicationt that allows you to plan task on the beforehand with estimate duration, when a task should be finished,...
-- Job apply: an application that seeks related jobs with job descriptions and allow you to enter a "standard" letter with a different implementation for each company
+- [Trello variant](./assets/md/trelloVariant.md)
+- [Job/Internship applier](./assets/md/jobApplier.md)
 - Remember my books: an application that helps you remember the books you have read and some interesting future picks
 - Artist stockexchange: an app that allows it's users to invest in upcoming artist, youtubers, ...
 - Unbaised news: application that gives unbaised news

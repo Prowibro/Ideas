@@ -27,7 +27,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### Game ideas:
 - [Test your vocabulary](./assets/md/testYourVocab.md)
-- WikiSearch: from a certain wikipedia page your objective is to get to another wikipedia page in the least amount of clicks
+- [Wiki Search](./assets/md/wikiSearch.md)
 
 ### Silly ideas:
 - Random picture generator: an app that generates random pictures based on certain criteria

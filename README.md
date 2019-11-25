@@ -39,7 +39,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [I am rich](./assets/md/iAmRich.md)
 - [Easified article](./assets/md/articleBreakdown.md)
 - [Give me variable names](./assets/md/variableNamesForProgrammers.md)
-- Seek my father: dating app for girls that seeks out guys that look like her father
+- [Get me my father](./assets/md/getMeMyFather.md)
 
 ## Contributing
 

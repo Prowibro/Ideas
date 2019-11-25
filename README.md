@@ -20,8 +20,8 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Unbaised News](./assets/md/unbaisedNews.md)
 - [Rate someone](./assets/md/rateSomeone.md)
 - [Public toilet locator](./assets/md/publicToiletLocator.md)
-- Bin locator: an app that locates the nearest bin in the direction you're going
-- App recommender: application that recommend other cool/new applications
+- [Bin locator](./assets/md/binLocator.md)
+- [App recommender](./assets/md/appRecommender.md)
 - Date recommender: an app that seeks potential dates for you (like in the netflix series black mirror) and by doing so tries to find the "ideal" partner for you
 - Beautiful nature: an app that recommend/shows beautiful places in nature or to drive through, google maps but with beautiful and interesting places or an app that shows you places that are beautiful nearby (beautifulness based on rating)
 

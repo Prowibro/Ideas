@@ -1,0 +1,1 @@
+App recommender: application that recommend other cool/new applications

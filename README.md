@@ -4,17 +4,15 @@ In search of some cool/wicked ideas or no time to make them a reality? This migh
 This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 
 ### App ideas:
-- [resume generator](./assets/md/resumeGenerator.md)
-
-- Social media timeline: app that collects data from different social media and displays it in a timeline
-- Food recommender: an app that recommends food from restaurants nearby or food you can make yourself
-- A dare application: an application that basically allows you to send dares, receive dares, add dares, ...
-- A gift idea application: most people have trouble finding good gifts for a colleague, significant other, friend, family, ...
-    in this application people can upvote/downvote ideas, add ideas,...
-- A food donation appliction for restaurants: that will allow restaurants to call on the charities in their surrounding area to donate excess food to e.g.: homeless
-- A travel book: a social media like instagram for (mostly) yourself to keep a note of where you have been in your life, add pictures, add new locations,...
-- A fridge application: an application that remembers what is in your fridge, so the next time you go shopping, you have an accurate shopping list, add item to list, remove item from list,...
-- Article breakdown: an application that breaks down articles ( = gives you a small summary)
+- [Resume generator](./assets/md/resumeGenerator.md)
+- [Social media timeline](./assets/md/socialMediaTimeline.md)
+- [Food recommender](./assets/md/foodRecommender.md)
+- [I dare you](./assets/md/iDareYou.md)
+- [Gift Idea](./assets/md/giftIdeas.md)
+- [Food donation](./assets/md/findCharities.md)
+- [Travel book](./assets/md/travelBook.md)
+- [Modern shopping list](./assets/md/modernShoppinglist.md)
+- [Minify article](./assets/md/minifyArticle.md)
 - A trello variant: an applicationt that allows you to plan task on the beforehand with estimate duration, when a task should be finished,...
 - Job apply: an application that seeks related jobs with job descriptions and allow you to enter a "standard" letter with a different implementation for each company
 - Remember my books: an application that helps you remember the books you have read and some interesting future picks

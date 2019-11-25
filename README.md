@@ -5,6 +5,8 @@
 In search of some cool/wicked ideas or no time to make yours a reality? This might be the right place 4 u :)
 This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 
+---
+
 ### App ideas:
 
 - [Resume generator](./assets/md/resumeGenerator.md)
@@ -40,6 +42,8 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Easified article](./assets/md/articleBreakdown.md)
 - [Give me variable names](./assets/md/variableNamesForProgrammers.md)
 - [Get me my father](./assets/md/getMeMyFather.md)
+
+---
 
 ## Contributing
 

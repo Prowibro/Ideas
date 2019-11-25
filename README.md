@@ -44,3 +44,11 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 ## Contributing
 
 If you spot any mistake (I bet you won't :p) or if you have an idea that could be added to the list, feel free to open a pull request (preferably add your idea to the top so newest ideas are at the top) :)
+
+### Basic template
+
+| # Title  | title of the idea                                           |
+| -------- | ----------------------------------------------------------- |
+| ## What? | explanation of what the idea is                             |
+| ## Why?  | explanation of why this is usefull                          |
+| ## How?  | explanation how one can get started on developing this idea |

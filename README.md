@@ -15,8 +15,8 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Minify article](./assets/md/minifyArticle.md)
 - [Trello variant](./assets/md/trelloVariant.md)
 - [Job/Internship applier](./assets/md/jobApplier.md)
-- Remember my books: an application that helps you remember the books you have read and some interesting future picks
-- Artist stockexchange: an app that allows it's users to invest in upcoming artist, youtubers, ...
+- [Remember books](./assets/md/rememberBooks.md)
+- [Artist Exchange](./assets/md/artistExchange.md)
 - Unbaised news: application that gives unbaised news
 - Rate people: application that allows it's users to see a random other user and rate him/her based on different criteria (not necessarily looks)
 - Public toilet locator: in cities it is increasingly difficult to find free public toilets, so an app that shows you free/paid nearby public toilets

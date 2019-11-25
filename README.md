@@ -37,7 +37,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 - [Random picture](./assets/md/randomPicture.md)
 - [I am rich](./assets/md/iAmRich.md)
-- Article breakdown: an application that gives you the simplest form of an article, simple in words / short,...
+- [Easified article](./assets/md/articleBreakdown.md)
 - VariableNames generator for programmers: an app that gives you a variable name based on a set of keywords
 - Seek my father: dating app for girls that seeks out guys that look like her father
 

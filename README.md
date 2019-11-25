@@ -1,9 +1,12 @@
- ![ideas logo](./assets/images/logo.png)
+![ideas logo](./assets/images/logo.png)
+
 # Create your dreams, live up to your imagination
+
 In search of some cool/wicked ideas or no time to make yours a reality? This might be the right place 4 u :)
 This repository (at the moment) is to curate a list of ideas that I don't have time to work on.
 
 ### App ideas:
+
 - [Resume generator](./assets/md/resumeGenerator.md)
 - [Social media timeline](./assets/md/socialMediaTimeline.md)
 - [Food recommender](./assets/md/foodRecommender.md)
@@ -26,10 +29,12 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Natural beauty - car trip](./assets/md/naturalBeautyCarTrip.md)
 
 ### Game ideas:
+
 - [Test your vocabulary](./assets/md/testYourVocab.md)
 - [Wiki Search](./assets/md/wikiSearch.md)
 
 ### Silly ideas:
+
 - Random picture generator: an app that generates random pictures based on certain criteria
 - I am rich: an application with the sole purpose of proving that you have too much money.
 - Article breakdown: an application that gives you the simplest form of an article, simple in words / short,...
@@ -37,4 +42,5 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - Seek my father: dating app for girls that seeks out guys that look like her father
 
 ## Contributing
-If you have an idea that could be added to the list, feel free to open a pull request (preferably add your idea to the top so newest ideas are at the top) :)
+
+If you spot any mistake (I bet you won't :p) or if you have an idea that could be added to the list, feel free to open a pull request (preferably add your idea to the top so newest ideas are at the top) :)

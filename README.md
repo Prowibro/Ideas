@@ -26,7 +26,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Natural beauty - car trip](./assets/md/naturalBeautyCarTrip.md)
 
 ### Game ideas:
-- A vocabulary tracker: a game in which you need to enter as many (correct) words as you can, this in a certain amount of time or just to check your own vocabulary indefinitely
+- [Test your vocabulary](./assets/md/testYourVocab.md)
 - WikiSearch: from a certain wikipedia page your objective is to get to another wikipedia page in the least amount of clicks
 
 ### Silly ideas:

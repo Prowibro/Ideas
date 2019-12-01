@@ -9,6 +9,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### App ideas:
 
+- [Are you bored?](./assets/md/areYouBored.md)
 - [Resume generator](./assets/md/resumeGenerator.md)
 - [Social media timeline](./assets/md/socialMediaTimeline.md)
 - [Food recommender](./assets/md/foodRecommender.md)

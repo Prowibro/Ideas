@@ -3,6 +3,7 @@
 ## What?
 
 App that allows you to plan different tasks on the beforehand with an estimated duration, when a task should be finished,...
+With an easy and user-friendly interface.
 
 ## Why?
 

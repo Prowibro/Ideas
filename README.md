@@ -39,6 +39,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### Game ideas:
 
+- [Image story app](./assets/md/gameIdeas/imgStorApp.md)
 - [Test your vocabulary](./assets/md/gameIdeas/testYourVocab.md)
 - [Wiki Search](./assets/md/gameIdeas/wikiSearch.md)
 

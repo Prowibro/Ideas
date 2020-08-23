@@ -9,6 +9,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### App ideas:
 
+- [Dead evidence uploaded](./assets/md/appIdeas/deadEvidenceUploaded.md)
 - [My journal](./assets/md/appIdeas/journalApp.md)
 - [Are you bored?](./assets/md/appIdeas/areYouBored.md)
 - [Resume generator](./assets/md/appIdeas/resumeGenerator.md)
@@ -31,7 +32,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [App recommender](./assets/md/appIdeas/appRecommender.md)
 - [Date recommender](./assets/md/appIdeas/dateRecommender.md)
 - [Natural beauty - car trip](./assets/md/appIdeas/naturalBeautyCarTrip.md)
-- [Dead evidence uploaded](./assets/md/appIdeas/deadEvidenceUploaded.md)
+
 
 ### Game ideas:
 

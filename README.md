@@ -8,7 +8,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 ---
 
 ### App ideas:
-
+- [Chore planner](./assets/md/chorePlanner.md)
 - [Positive news](./assets/md/positiveNews.md)
 - [Movie / music recommender](./assets/md/appIdeas/movieMusicRecommender.md)
 - [Explain to 5 year old](./assets/md/appIdeas/5yearOld.md)
@@ -25,7 +25,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Travel book](./assets/md/appIdeas/travelBook.md)
 - [Modern shopping list](./assets/md/appIdeas/modernShoppinglist.md)
 - [Minify article](./assets/md/appIdeas/minifyArticle.md)
-- [Trello variant](./assets/md/appIdeas/trelloVariant.md)
+- [Family trello](./assets/md/appIdeas/trelloVariant.md)
 - [Job/Internship applier](./assets/md/appIdeas/jobApplier.md)
 - [Remember books](./assets/md/appIdeas/rememberBooks.md)
 - [Artist Exchange](./assets/md/appIdeas/artistExchange.md)

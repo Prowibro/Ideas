@@ -47,6 +47,10 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 - [Give me variable names](./assets/md/sillyIdeas/variableNamesForProgrammers.md)
 - [Get me my father](./assets/md/sillyIdeas/getMeMyFather.md)
 
+### Ideas to benefit programmers
+
+- [Wiki Programming Language](./assets/md/forProgrammers/wikiProgLang.md)
+
 ---
 
 ## Contributing

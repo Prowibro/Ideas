@@ -9,6 +9,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### App ideas:
 
+- [Book selector](./assets/md/appIdeas/bookSelector.md)
 - [Dead evidence uploaded](./assets/md/appIdeas/deadEvidenceUploaded.md)
 - [My journal](./assets/md/appIdeas/journalApp.md)
 - [Are you bored?](./assets/md/appIdeas/areYouBored.md)

@@ -41,7 +41,7 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 
 ### Silly ideas:
 
-- [Trash hunter](./assets/md/sillyIdeas/trashHunt.md)
+- [Trash hunter](./assets/md/sillyIdeas/trashHunter.md)
 - [Random picture](./assets/md/sillyIdeas/randomPicture.md)
 - [I am rich](./assets/md/sillyIdeas/iAmRich.md)
 - [Easified article](./assets/md/sillyIdeas/articleBreakdown.md)

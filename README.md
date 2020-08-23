@@ -8,8 +8,8 @@ This repository (at the moment) is to curate a list of ideas that I don't have t
 ---
 
 ### App ideas:
-- [Chore planner](./assets/md/chorePlanner.md)
-- [Positive news](./assets/md/positiveNews.md)
+- [Chore planner](./assets/md/appIdeas/chorePlanner.md)
+- [Positive news](./assets/md/appIdeas/positiveNews.md)
 - [Movie / music recommender](./assets/md/appIdeas/movieMusicRecommender.md)
 - [Explain to 5 year old](./assets/md/appIdeas/5yearOld.md)
 - [Book selector](./assets/md/appIdeas/bookSelector.md)
